@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/GraphQL-Android-Example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Old ump/ump" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Old ump/ump-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SentiExtractApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Unit-Testing-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mvvm-kotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ump-android" vcs="Git" />
+  </component>
+</project>

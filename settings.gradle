@@ -1,0 +1,2 @@
+rootProject.name = "MyStlyo"
+include ':app'
